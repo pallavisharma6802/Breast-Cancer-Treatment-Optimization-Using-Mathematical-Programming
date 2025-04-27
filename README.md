@@ -21,21 +21,6 @@ The goal is to balance **maximizing patient survival time** and **minimizing rel
   - 2,509 patients
   - Features include survival time, relapse status, tumor size, mutation count, receptor statuses (ER, PR, HER2), and treatment history.
 
-## Project Structure
-```
-├── data/
-│   ├── Breast Cancer METABRIC data.csv
-│   ├── survival_database.csv
-│   └── relapse_database.csv
-├── notebooks/
-│   ├── data_analysis.ipynb
-│   ├── optimization_model.ipynb
-│   └── sensitivity_analysis.ipynb
-├── figures/
-│   ├── survival_curves.png
-│   ├── pareto_curve.png
-├── README.md
-```
 
 ## How to Run
 1. Clone this repository.
@@ -46,7 +31,6 @@ The goal is to balance **maximizing patient survival time** and **minimizing rel
 3. Run the Jupyter notebooks in the `notebooks/` directory sequentially:
    - `data_analysis.ipynb`
    - `optimization_model.ipynb`
-   - `sensitivity_analysis.ipynb`
 
 ## Results
 - Identified personalized treatment plans balancing survival and relapse objectives.
