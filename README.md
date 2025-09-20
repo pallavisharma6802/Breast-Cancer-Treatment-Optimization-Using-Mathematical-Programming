@@ -36,9 +36,3 @@ The goal is to balance **maximizing patient survival time** and **minimizing rel
 - Identified personalized treatment plans balancing survival and relapse objectives.
 - Demonstrated up to **14% improvement** in survival optimization through sensitivity analysis.
 - Highlighted survival trends using Kaplan-Meier curves comparing aggressive vs conservative treatments.
-
-## Future Work
-- Integrate real-time patient monitoring data.
-- Expand to multi-cancer optimization frameworks.
-- Explore dynamic treatment policies using reinforcement learning techniques.
-
